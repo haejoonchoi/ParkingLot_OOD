@@ -1,4 +1,5 @@
-# Design a Parking Lot
+# Design a Parking Lot 
+[Reference: Hackernoon](https://hackernoon.com/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39#:~:text=7.%20Design%20a%20Parking%C2%A0Lot)
 
 ![image](https://hackernoon.imgix.net/hn-images/1*RF8k7w8yEaZqHgj4Bk9tKg.png)
 
