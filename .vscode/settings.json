@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/haejoonchoi/Developer/ParkingLot_OOD",
+            "binaryPath": "/Users/haejoonchoi/Developer/ParkingLot_OOD/ParkingLot_Simulator",
+            "binaryArgs": []
+        }
+    ]
+}
