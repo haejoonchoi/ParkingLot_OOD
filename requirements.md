@@ -1,0 +1,1 @@
+This project includes spdlog and fmt for logging and formatting of the logging message.

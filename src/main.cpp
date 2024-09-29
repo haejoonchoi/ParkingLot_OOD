@@ -1,9 +1,16 @@
+#include "ParkingLot.h"
+#include "Simulator.h"
+#include <spdlog/spdlog.h>
+#include <spdlog/sinks/stdout_color_sinks.h>
 
-#include <iostream>
-#include "example.h"
+int main()
+{
+    auto logger = spdlog::stdout_color_mt("console");
+    // Set the logger level to debug
+    logger->set_level(spdlog::level::debug);
 
-int main() {
-    std::cout << "Hello, World!" << std::endl;
-    exampleFunction();
+    logger->info("main() called");
+    Simulator* simulator;
+    simulator->run();
     return 0;
 }
